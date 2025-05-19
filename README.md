@@ -25,5 +25,5 @@ A real-time sign language detection system that translates hand gestures into re
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/sign-language-detection.git
+git clone https://github.com/krishna3260/Sign_language_detection_using_ml.git
 cd sign-language-detection
